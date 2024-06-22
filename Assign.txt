@@ -1,0 +1,20 @@
+1. What is the Shortcut Emmet Used to Create boilerplate of HTML ?
+   Ans:Html:5
+2. What is DOCTYPE in Html ?
+   Ans:Html5
+3. What is Void Element and Example for Void Elements ?
+   Self closing tags are void elemt.
+   Ex:img<>,video<>
+4. What is Different Element and Attributes ?
+   Elements:<P></p>,<h1></h1>,....
+   Attributes:<a href="link" /a>,<img src="....." />,...
+5. What is Html Entries and Why is it need in HTML ?
+   It is used to download or copy pattern and name to Special characters. 
+   
+6. What are meta tag and why is it used 
+   meta tag are placed only inside head tag & self closing tag.
+   it is used for Search Engine Optimization(SEO).
+
+7. what is the best way to add images in Website ?
+   Content Delivery Network(CDN).
+   Way:Imagekit
